@@ -6,8 +6,6 @@ Taught at Georg-August-Universität Göttingen<br>
 Lecturer: Prof. Fabian Sinz<br>
 Tutors: Mohammad Bashiri, Konstantin Willeke, Christoph Blessing, Pawel Pierzchlewicz.
 
-## Content
-
 **Tutorial 1**: Getting started (setup) <br>
 **Tutorial 2**: Python basics <br>
 **Tutorial 3**: Python basics; numerical computing with Python (intro to Numpy) <br>

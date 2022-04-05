@@ -15,5 +15,5 @@ Tutors: Mohammad Bashiri, Konstantin Willeke, Christoph Blessing, Pawel Pierzchl
 **Tutorial 7**: Regression (scikit-learn); objective functions and optimization (JAX); git and GitHub <br>
 **Tutorial 8**: Classification (scikit-learn); over-fitting and how to avoid it <br>
 **Tutorial 9**: Clustering and dimensionality reduction <br>
-**Tutorial 10**: <br>
-**Tutorial 11**: <br>
+**Tutorial 10**: Dimensionality reduction continued: ICA and Autoencoders<br>
+**Tutorial 11**: Autoencoders continued; time series analyses<br>
